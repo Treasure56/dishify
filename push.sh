@@ -1,3 +1,3 @@
 git add .
-git commit -m "Dishify mobile App landing page"
+git commit -m "Added metadata"
 git push origin main
