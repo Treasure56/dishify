@@ -8,9 +8,18 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily:{
+        roboto:"var(--font-roboto)",
+      },
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: {
+          DEFAULT:"#F97316"
+        },
+        secondary:{
+          DEFAULT:"#FAEDE6",
+          light:"#faf4f0"
+        }
+        
       },
     },
   },
