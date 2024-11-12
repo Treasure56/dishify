@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     description,
     images: [
       {
-        url: "https://dishify.vercel.app/images/dishify-homepage.png",
+        url: "https://dishify-app.vercel.app/images/dishify-homepage.png",
         width: 800,
         height: 600,
       },
