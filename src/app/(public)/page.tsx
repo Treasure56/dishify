@@ -1,4 +1,5 @@
 import Footer from "../components/Footer"
+import Download from "./Download"
 import Explore from "./Explore"
 import Hero from "./Hero"
 
@@ -14,6 +15,7 @@ export default function page() {
 
         <Hero />
         <Explore />
+        <Download />
         <Footer />
       </div>
   )
