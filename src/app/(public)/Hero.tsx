@@ -7,11 +7,11 @@ export default function Hero() {
       <img src="/images/bg.png" alt="Dishify background " className="absolute top-0 left-0 w-full h-full" />
       <div className="grid grid-cols-1 md:grid-cols-2 items-center bg-gradient-to-t from-secondary-light via-[#faf4f0aa] to-[#faf4f0] backdrop-blur-[100px] relative justify-center gap-8 app-container">
         <div className="flex flex-col space-y-6 relative md:p-8">
-          <h2 className="text-4xl md:text-5xl font-bold leading-tight">
+          <h1 className="text-4xl md:text-5xl font-bold leading-tight">
             Your Personal
             <span className="text-primary"> Culinary </span>
             Journey Starts Here
-          </h2>
+          </h1>
           <p className="text-lg text-gray-600">
             Unlock unlimited premium recipes and transform your cooking
             experience with step-by-step guidance, personalized recommendations,
