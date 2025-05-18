@@ -32,7 +32,7 @@ export default function Explore() {
             <p className="text-sm text-gray-700">
               Uncover delicious recipes and cooking tips to elevate your
               culinary experience. Explore flavors from around the world right
-              in your kitchen!
+              in your kitchen!!
             </p>
           </div>
             <button className="bg-primary text-white p-2 rounded-xl w-fit px-5 flex items-center  gap-2">
